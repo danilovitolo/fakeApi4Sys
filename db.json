@@ -4,7 +4,7 @@
   },
   "users": [
     {
-      "index": 1,
+      "id": 1,
       "avatar": {
         "large": "http://placehold.it/32x32.jpg",
         "medium": "http://placehold.it/32x32.jpg",
@@ -32,7 +32,7 @@
       }
     },
     {
-      "index": 2,
+      "id": 2,
       "avatar": {
         "large": "http://placehold.it/32x32.jpg",
         "medium": "http://placehold.it/32x32.jpg",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "index": 3,
+      "id": 3,
       "avatar": {
         "large": "http://placehold.it/32x32.jpg",
         "medium": "http://placehold.it/32x32.jpg",
@@ -88,7 +88,7 @@
       }
     },
     {
-      "index": 4,
+      "id": 4,
       "avatar": {
         "large": "http://placehold.it/32x32.jpg",
         "medium": "http://placehold.it/32x32.jpg",
