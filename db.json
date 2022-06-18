@@ -114,35 +114,7 @@
         "catchPhrase": "qui tempor eu id dolor",
         "bs": "elit culpa in minim"
       }
-    },
-    {
-      "index": 5,
-      "avatar": {
-        "large": "http://placehold.it/32x32.jpg",
-        "medium": "http://placehold.it/32x32.jpg",
-        "thumbnail": "http://placehold.it/32x32.jpg"
-      },
-      "name": "Henderson Cohen",
-      "username": "Tammi",
-      "email": "tammicohen@zizzle.com",
-      "address": {
-        "street": "Liberty Avenue",
-        "suite": 7319,
-        "city": "Alleghenyville",
-        "zipcode": 17795704,
-        "geo": {
-          "lat": -65.99825,
-          "lng": -101.457272
-        }
-      },
-      "phone": "+1 (983) 456-3499",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Deepends",
-        "catchPhrase": "duis anim labore aute nisi",
-        "bs": "nisi eiusmod Lorem ea"
-      }
-    }
+    }   
   ],
   "posts": [
     {
@@ -264,48 +236,6 @@
       "id": 19,
       "title": "ad laborum deserunt fugiat anim",
       "body": "ut exercitation pariatur labore minim laborum proident reprehenderit et incididunt labore nulla tempor anim nisi aliqua id ea ipsum amet"
-    },
-    {
-      "userId": 5,
-      "id": 20,
-      "title": "ex nisi nisi proident sit",
-      "body": "do cupidatat ut sunt ea ut elit mollit ea minim labore ullamco tempor labore sunt veniam excepteur esse est deserunt"
-    },
-    {
-      "userId": 5,
-      "id": 21,
-      "title": "laborum exercitation voluptate id ullamco",
-      "body": "excepteur excepteur pariatur eiusmod ipsum eu ullamco quis do velit non non quis mollit quis veniam ad nulla qui mollit"
-    },
-    {
-      "userId": 5,
-      "id": 22,
-      "title": "est exercitation ea magna id",
-      "body": "aliqua nulla pariatur dolor excepteur magna do et cupidatat id dolore veniam ullamco mollit culpa ipsum laborum id magna aute"
-    },
-    {
-      "userId": 5,
-      "id": 23,
-      "title": "nostrud eu qui esse deserunt",
-      "body": "magna cillum cupidatat ullamco ut laboris veniam amet id do non nisi pariatur deserunt ut dolore fugiat quis laboris laborum"
-    },
-    {
-      "userId": 5,
-      "id": 24,
-      "title": "eiusmod occaecat laborum quis sint",
-      "body": "aliquip qui veniam ea consectetur commodo nulla qui tempor nostrud do do nisi aliqua irure eiusmod consectetur est mollit id"
-    },
-    {
-      "userId": 5,
-      "id": 25,
-      "title": "voluptate aute qui proident duis",
-      "body": "enim est minim adipisicing Lorem qui non pariatur do ut ullamco occaecat pariatur eiusmod pariatur aute quis laborum eiusmod ad"
-    },
-    {
-      "userId": 5,
-      "id": 26,
-      "title": "dolore tempor qui incididunt anim",
-      "body": "aliquip pariatur in qui qui anim nulla magna eu veniam ad ipsum laboris do aliquip velit nostrud nisi dolor ut"
     }
   ]
 }
