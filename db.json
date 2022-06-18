@@ -1,0 +1,241 @@
+{
+  "login": {
+    "api_key": "5ECDDC3A21CE53428227A2125B7FCC71"
+  },
+  "users": [
+    {
+      "index": 1,
+      "avatar": {
+        "large": "http://placehold.it/32x32.jpg",
+        "medium": "http://placehold.it/32x32.jpg",
+        "thumbnail": "http://placehold.it/32x32.jpg"
+      },
+      "name": "Petersen Park",
+      "username": "Dillard",
+      "email": "dillardpark@zytrex.com",
+      "address": {
+        "street": "Doughty Street",
+        "suite": 5210,
+        "city": "Robinette",
+        "zipcode": 81960864,
+        "geo": {
+          "lat": 2.830563,
+          "lng": 63.773488
+        }
+      },
+      "phone": "+1 (848) 404-3657",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Bitendrex",
+        "catchPhrase": "cillum non velit excepteur et",
+        "bs": "mollit id nisi culpa"
+      }
+    },
+    {
+      "index": 2,
+      "avatar": {
+        "large": "http://placehold.it/32x32.jpg",
+        "medium": "http://placehold.it/32x32.jpg",
+        "thumbnail": "http://placehold.it/32x32.jpg"
+      },
+      "name": "Bobbie Robertson",
+      "username": "Sondra",
+      "email": "sondrarobertson@bitendrex.com",
+      "address": {
+        "street": "Harman Street",
+        "suite": 1453,
+        "city": "Gulf",
+        "zipcode": 93562415,
+        "geo": {
+          "lat": 3.385876,
+          "lng": -127.142746
+        }
+      },
+      "phone": "+1 (899) 502-2325",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Fuelworks",
+        "catchPhrase": "non aliqua sunt nostrud minim",
+        "bs": "nulla in in laboris"
+      }
+    },
+    {
+      "index": 3,
+      "avatar": {
+        "large": "http://placehold.it/32x32.jpg",
+        "medium": "http://placehold.it/32x32.jpg",
+        "thumbnail": "http://placehold.it/32x32.jpg"
+      },
+      "name": "Charlene Wall",
+      "username": "Richardson",
+      "email": "richardsonwall@fuelworks.com",
+      "address": {
+        "street": "Quincy Street",
+        "suite": 2615,
+        "city": "Belgreen",
+        "zipcode": 85636192,
+        "geo": {
+          "lat": -72.687383,
+          "lng": -98.133275
+        }
+      },
+      "phone": "+1 (816) 542-2459",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Geekmosis",
+        "catchPhrase": "sunt ut mollit enim deserunt",
+        "bs": "sunt commodo incididunt occaecat"
+      }
+    },
+    {
+      "index": 4,
+      "avatar": {
+        "large": "http://placehold.it/32x32.jpg",
+        "medium": "http://placehold.it/32x32.jpg",
+        "thumbnail": "http://placehold.it/32x32.jpg"
+      },
+      "name": "Elizabeth Jennings",
+      "username": "Sampson",
+      "email": "sampsonjennings@geekmosis.com",
+      "address": {
+        "street": "Thornton Street",
+        "suite": 6384,
+        "city": "Bynum",
+        "zipcode": 32180507,
+        "geo": {
+          "lat": 10.675567,
+          "lng": -40.948031
+        }
+      },
+      "phone": "+1 (877) 500-2838",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Zizzle",
+        "catchPhrase": "qui tempor eu id dolor",
+        "bs": "elit culpa in minim"
+      }
+    }   
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "aliqua minim fugiat aliquip fugiat",
+      "body": "aliquip proident ipsum nisi incididunt nostrud consequat nostrud in adipisicing nostrud id reprehenderit culpa sunt reprehenderit nisi adipisicing mollit velit"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "ipsum officia culpa Lorem enim",
+      "body": "nisi exercitation duis aliqua id id fugiat qui labore pariatur officia id esse elit excepteur sunt est occaecat culpa nisi"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "velit veniam reprehenderit elit anim",
+      "body": "officia adipisicing proident pariatur in ut nisi velit pariatur eu sint anim labore deserunt ex ad tempor eu incididunt fugiat"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "reprehenderit culpa eu Lorem et",
+      "body": "sint fugiat velit enim dolor esse enim sit commodo enim nisi do nisi magna non eu nulla sit exercitation nulla"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "voluptate elit deserunt commodo laborum",
+      "body": "adipisicing esse excepteur amet amet eiusmod esse ex sunt laborum aute tempor magna veniam pariatur cupidatat aliqua duis excepteur velit"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "qui pariatur enim consequat anim",
+      "body": "ex culpa do velit esse deserunt culpa ullamco voluptate sit tempor cupidatat et tempor reprehenderit elit officia voluptate duis mollit"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "aliqua est sunt duis culpa",
+      "body": "tempor occaecat fugiat consectetur occaecat cillum sint consequat cupidatat occaecat magna cillum nulla aliquip minim duis id minim ea cillum"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "commodo est aliquip amet eiusmod",
+      "body": "sit sint non esse occaecat Lorem aliquip amet ad dolore amet occaecat pariatur velit qui velit pariatur elit veniam irure"
+    },
+    {
+      "userId": 2,
+      "id": 9,
+      "title": "qui commodo est sunt ipsum",
+      "body": "Lorem occaecat amet incididunt quis adipisicing proident sunt laborum culpa duis veniam eu anim culpa Lorem ad minim incididunt qui"
+    },
+    {
+      "userId": 2,
+      "id": 10,
+      "title": "laboris eiusmod ut ad ea",
+      "body": "aliqua cillum ad ullamco consectetur excepteur nostrud duis ipsum eu duis occaecat quis nostrud eiusmod amet amet consequat consectetur labore"
+    },
+    {
+      "userId": 2,
+      "id": 11,
+      "title": "sint duis voluptate amet aliquip",
+      "body": "officia elit amet irure elit non tempor eiusmod pariatur mollit aliqua cupidatat sint duis proident sunt consequat sint irure laboris"
+    },
+    {
+      "userId": 3,
+      "id": 12,
+      "title": "laboris Lorem anim culpa anim",
+      "body": "sunt cupidatat ad cupidatat est irure ipsum ipsum ullamco irure duis elit incididunt laboris aute sit excepteur duis proident proident"
+    },
+    {
+      "userId": 3,
+      "id": 13,
+      "title": "et amet Lorem pariatur aliqua",
+      "body": "quis et quis fugiat sint ea est incididunt qui anim pariatur mollit ipsum exercitation laborum esse nulla cillum exercitation irure"
+    },
+    {
+      "userId": 3,
+      "id": 14,
+      "title": "dolore cupidatat exercitation enim dolor",
+      "body": "cupidatat enim et in cillum commodo eu velit enim exercitation exercitation irure duis veniam id in duis cupidatat fugiat laborum"
+    },
+    {
+      "userId": 3,
+      "id": 15,
+      "title": "non elit dolore enim aliqua",
+      "body": "culpa mollit reprehenderit velit nulla consequat labore mollit sit ipsum Lorem laboris incididunt amet ea eu ea dolore excepteur proident"
+    },
+    {
+      "userId": 3,
+      "id": 16,
+      "title": "aute ullamco consectetur voluptate pariatur",
+      "body": "fugiat proident consequat irure do reprehenderit consequat laborum in elit nisi deserunt elit commodo aute nostrud eu veniam occaecat sint"
+    },
+    {
+      "userId": 4,
+      "id": 16,
+      "title": "magna sint minim qui duis",
+      "body": "voluptate sint ullamco in adipisicing aute dolore et do deserunt qui sunt incididunt sit sit ad do sint culpa consectetur"
+    },
+    {
+      "userId": 4,
+      "id": 17,
+      "title": "in ea quis esse sint",
+      "body": "ex id excepteur eu cillum consectetur amet qui in amet consequat enim nisi elit adipisicing proident adipisicing consectetur nostrud voluptate"
+    },
+    {
+      "userId": 4,
+      "id": 18,
+      "title": "dolor enim aliquip laborum sit",
+      "body": "consequat sunt magna in adipisicing qui id occaecat commodo et qui sunt nisi aliqua ut sunt exercitation veniam nulla qui"
+    },
+    {
+      "userId": 4,
+      "id": 19,
+      "title": "ad laborum deserunt fugiat anim",
+      "body": "ut exercitation pariatur labore minim laborum proident reprehenderit et incididunt labore nulla tempor anim nisi aliqua id ea ipsum amet"
+    }
+  ]
+}
